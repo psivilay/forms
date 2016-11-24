@@ -1,0 +1,16 @@
+#letter h1 {
+  text-align: center;
+  font-style: italic;
+}
+
+#letter {
+  display: none;
+  border: solid blue;
+  padding: 10px;
+}
+
+#letter p.postscript {
+  text align: left;
+  color: green;
+  font-style: italic;
+}
